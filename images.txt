@@ -1,1 +1,1 @@
-itzg/minecraft-server:java17
+minio/minio:RELEASE.2024-06-11T03-13-30Z
