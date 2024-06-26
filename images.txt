@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2024-06-11T03-13-30Z
+portainer/portainer-ce:2.20.3-alpine
